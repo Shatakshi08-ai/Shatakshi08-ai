@@ -2,13 +2,14 @@
 - 👀 I’m interested in Wrb Development, Project Management and HR.
 - 🌱 I’m currently learning MERN Stack, React,etc.,
 - 📫 How to reach me --->
- ~GitHub :- 
+ ~GitHub :- https://github.com/Shatakshi08-ai/Shatakshi08-ai
  ~LinkedIn:- https://www.linkedin.com/in/shatakshi-sah?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
   
 - 😄 Pronouns:She/Her
 - ⚡ Fun fact: - I'm a quick learner, always looking to expand my skill set and knowledge.
-- I'm passionate about building innovative solutions to real-world problems.
-- I believe in the power of open-source and collaboration.
+               - I'm passionate about building innovative solutions to real-world problems.
+               - I believe in the power of open-source and collaboration.
+
 
 Hello! I'm Shatakshi Sah
 
@@ -38,6 +39,6 @@ Let's Connect!
 Feel free to reach out to me on GitHub or LinkedIn. I'm always up for a chat about tech, innovation, or just about anything!
 
 Repositories:
+https://github.com/Shatakshi08-ai/Shatakshi08-ai
 
-[Link to your repositories]
 
