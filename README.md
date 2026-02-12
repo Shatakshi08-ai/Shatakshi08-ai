@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shatakshi08-ai
-- 👀 I’m interested in Wrb Development, Project Management and HR.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning MERN Stack, React,etc.,
 - 📫 How to reach me --->
  ~GitHub :- https://github.com/Shatakshi08-ai/Shatakshi08-ai
